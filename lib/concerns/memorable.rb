@@ -10,5 +10,6 @@ require_relative '../lib/song.rb'
 
 module Memorable
 
-  def 
+  def self.reset_all
+    
 end
