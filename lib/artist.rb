@@ -12,6 +12,7 @@ class Artist
   def initialize
     super
     @songs = []
+    @@artists << self 
   end
 
   def self.find_by_name(name)
