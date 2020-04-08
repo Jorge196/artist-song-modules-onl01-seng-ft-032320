@@ -14,6 +14,7 @@ module Memorable
     self.all.clear
   end
 
-  def count
-    
+  def self.count
+    self.count.all 
+
 end
