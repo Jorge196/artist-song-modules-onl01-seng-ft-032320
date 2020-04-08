@@ -15,6 +15,8 @@ module Memorable
   end
 
   def self.count
-    self.count.all 
+    self.all.count
+  end
+  
 
 end
