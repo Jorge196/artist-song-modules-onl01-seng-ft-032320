@@ -9,4 +9,6 @@ require_relative '../lib/song.rb'
 
 
 module Memorable
+
+  def 
 end
