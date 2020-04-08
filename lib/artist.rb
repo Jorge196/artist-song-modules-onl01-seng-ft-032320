@@ -1,7 +1,7 @@
 require 'pry'
 
 class Artist
-  include Concerns::Paramable
+  include Paramable
 
   attr_accessor :name
   attr_reader :songs
